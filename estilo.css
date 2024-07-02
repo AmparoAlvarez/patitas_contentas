@@ -175,16 +175,4 @@ margin-right: 50%;
 	margin-top: 5%;
 	margin-left: 25%;
 	margin-right: 50%;
-.f-carousel__nav {
-  background-color: red; 
-}
-
-.f-carousel__nav--prev,
-.f-carousel__nav--next {
-  color: red; 
-}
-
-.f-carousel__nav--prev:before,
-.f-carousel__nav--next:before {
-  border-color: red; 
 }
